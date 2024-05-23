@@ -28,7 +28,7 @@ Swagger: API documentation and testing.
 
 Installation
 Frontend
-1) git clone https://github.com/yourusername/staybooker.git
+1) git clone https://github.com/AbdulKaleemShaik/StayBooker
 cd staybooker/frontend
 2)npm install
 3)npm start
